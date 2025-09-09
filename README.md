@@ -5,7 +5,7 @@ Built for an **Always Green** workflow and clean open‑source repos.
 
 [![CI](https://github.com/CoderDeltaLAN/license-guardian/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/CoderDeltaLAN/license-guardian/actions/workflows/ci.yml)
 [![CodeQL](https://github.com/CoderDeltaLAN/license-guardian/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/CoderDeltaLAN/license-guardian/actions/workflows/codeql.yml)
-[![License](https://img.shields.io/github/license/CoderDeltaLAN/license-guardian)](./LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-0070ba?logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW)
 
 ---
