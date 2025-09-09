@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "license-guardian"
-version = "0.1.1"
+version = "0.1.2"
 description = "LICENSE/SPDX checker CLI. Always Green scaffold."
 authors = ["CoderDeltaLAN <coderdeltalan.cargo784@8alias.com>"]
 readme = "README.md"
