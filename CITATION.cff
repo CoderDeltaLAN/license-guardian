@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: license-guardian
+message: "Please cite this software as below."
+authors:
+  - family-names: "CoderDeltaLAN"
+    given-names: "Yosvel"
+license: MIT
+repository-code: "https://github.com/CoderDeltaLAN/license-guardian"
+version: "0.1.1"
+date-released: "2025-09-09"
+keywords: [spdx, license, headers, compliance, cli, python]
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "CoderDeltaLAN"
+      given-names: "Yosvel"
+  title: "license-guardian"
+  url: "https://github.com/CoderDeltaLAN/license-guardian"
+  year: 2025

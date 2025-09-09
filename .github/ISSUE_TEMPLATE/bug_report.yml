@@ -1,0 +1,25 @@
+name: Bug report
+description: Report a reproducible problem
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Include expected vs actual behavior.
+      placeholder: Clear, concise description...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1. Command run
+        2. Output
+        3. ...
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / Traceback
+      render: shell
